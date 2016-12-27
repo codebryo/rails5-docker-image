@@ -20,3 +20,8 @@ In this case try to remove the `server.pid`.
 ```shell
 rm tmp/pids/server.pid
 ```
+
+## Docker Hub
+
+You can reference the image directly:
+`docker pull codebryo/rails5-docker-image`
